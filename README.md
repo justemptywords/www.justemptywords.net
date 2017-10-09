@@ -1,2 +1,0 @@
-# justemptywords
-A dog barking.
